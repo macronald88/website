@@ -1,0 +1,133 @@
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: #3e272d;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.macronald-mwendera {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Jersey15-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 100px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Jaldi-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 800px;
+  top: 85px;
+}
+.about2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Jaldi-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 962px;
+  top: 85px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Jaldi-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1143px;
+  top: 85px;
+}
+.budt-748-industry-practicum {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 87px;
+  top: 222px;
+}
+.buad-748-is-the-capstone-course-for-ms-information-systems-msis-majors-where-students-apply-their-knowledge-to-develop-real-world-is-solutions-for-business-clients-through-a-complete-is-development-process-students-design-and-implement-functional-prototypes-that-solve-practical-business-challenges-preparing-them-for-careers-in-technology-and-consulting {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 94px;
+  top: 307px;
+  width: 1293px;
+  height: 79px;
+}
+.macronald-mwendera-university-of-maryland-fall-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 335px;
+  top: 853px;
+}
+.professor-paul-t-shapiro {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 94px;
+  top: 552px;
+}
+.professor-paul-t-shapiro-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.professor-paul-t-shapiro-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+}
+.teaching-assistant-abhi-gupta-samiha-meah-zam-mozumder {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 94px;
+  top: 617px;
+}
+.teaching-assistant-abhi-gupta-samiha-meah-zam-mozumder-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.teaching-assistant-abhi-gupta-samiha-meah-zam-mozumder-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+}
+.semester-details-fall-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 94px;
+  top: 685px;
+}
+.semester-details-fall-2025-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
+.semester-details-fall-2025-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+}
