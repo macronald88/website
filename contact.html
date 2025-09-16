@@ -14,7 +14,7 @@
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
-      background-color: #4B1C2A; /* Maroon background */
+      background-color: #4B1C2A;
       color: #ffffff;
       padding-top: 70px;
     }
@@ -41,6 +41,10 @@
       color: #000;
     }
 
+    .form-label {
+      color: #ffffff;
+    }
+
     .btn-success {
       background-color: #28a745;
       border: none;
@@ -63,6 +67,13 @@
 
     .social-icons a:hover {
       color: #28a745;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem 0;
+      color: #ccc;
+      font-size: 0.9rem;
     }
   </style>
 </head>
@@ -93,21 +104,24 @@
       <p class="text-center mb-4">Reach out to the course team for support or inquiries.</p>
 
       <ul class="mb-4">
-        <li><strong>Macronald Mwendera</strong> | University of Maryland | Fall 2025</li>
         <li><strong>Professor:</strong> Paul T. Shapiro – <a href="mailto:pshapiro@umd.edu" class="text-white">pshapiro@umd.edu</a></li>
         <li><strong>Teaching Assistants:</strong></li>
         <ul>
-          <li>Abhi Gupta – <a href="mailto:agupta09@umd.edu" class="text-white">agupta09@umd.edu</a></li>
-          <li>Samiha Meah – <a href="mailto:smeah@umd.edu" class="text-white">smeah@umd.edu</a></li>
-          <li>Zam Mozumder – <a href="mailto:zam@umd.edu" class="text-white">zam@umd.edu</a></li>
+          <li>Akhil Gupta – <a href="mailto:agupta8@umd.edu" class="text-white">agupta8@umd.edu</a></li>
+          <li>Samitha Meah – <a href="mailto:smeah@umd.edu" class="text-white">smeah@umd.edu</a></li>
+          <li>Zam Mucumdere – <a href="mailto:zam@umd.edu" class="text-white">zam@umd.edu</a></li>
         </ul>
       </ul>
 
       <!-- Email Form -->
       <form>
         <div class="mb-3">
-          <label for="email" class="form-label text-white">Your Email</label>
+          <label for="email" class="form-label">Your Email</label>
           <input type="email" class="form-control" id="email" placeholder="Enter your email" />
+        </div>
+        <div class="mb-3">
+          <label for="message" class="form-label">Your Message</label>
+          <textarea class="form-control" id="message" rows="4" placeholder="Type your message here..."></textarea>
         </div>
         <button type="submit" class="btn btn-success w-100">Submit</button>
       </form>
@@ -120,6 +134,11 @@
       </div>
     </div>
   </div>
+
+  <!-- Footer -->
+  <footer>
+    Macronald Mwendera | University of Maryland | Fall 2025
+  </footer>
 
   <!-- Bootstrap JS -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
